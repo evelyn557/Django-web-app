@@ -70,17 +70,22 @@ python manage.py test
 
 ## 📸 Evidencia de Funcionamiento (Capturas de Pantalla)
 
-- Pantalla de Inicio de Sesión / Registro:
+- **Pantalla de Inicio de Sesión / Registro:**
  <img width="1440" height="778" alt="inicio_sesión" src="https://github.com/user-attachments/assets/0652cb32-97c8-4e7e-a6c9-bdd3e21ed6f1" />
 
 
-- Vista de Listado de Proyectos:
+- **Vista de Listado de Proyectos:**
 <img width="1436" height="775" alt="sitio_tareas" src="https://github.com/user-attachments/assets/3f44aa0f-b302-4d78-bcf8-bfa7a394851e" />
 <img width="1435" height="775" alt="proyecto2" src="https://github.com/user-attachments/assets/876eb294-4dcc-4d4b-a3a4-08015e83931f" />
 <img width="1437" height="777" alt="proyecto3" src="https://github.com/user-attachments/assets/6c2a4838-e8b2-442f-8bc2-e290210bbd07" />
 <img width="1440" height="780" alt="proyecto4" src="https://github.com/user-attachments/assets/6842370d-8bbb-4a60-9493-761fdaebf0b5" />
 <img width="1440" height="776" alt="proyecto5" src="https://github.com/user-attachments/assets/a630e417-def9-4886-87dc-6f932de75077" />
 <img width="1440" height="557" alt="proyecto6" src="https://github.com/user-attachments/assets/54326d50-e2f5-4469-be5b-53637830822a" />
+
+- **Validación al crear usuarios nuevos:**
+
+ <img width="1436" height="788" alt="validacion" src="https://github.com/user-attachments/assets/8279ae35-46c3-4851-9404-27ec441243d4" />
+
 
 
 
