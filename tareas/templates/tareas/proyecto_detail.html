@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ proyecto.nombre }}{% endblock %}
+
+{% block content %}
+
+<!-- Botón Volver -->
+<a href="{% url 'proyecto_list' %}" class="btn btn-secondary btn-sm mb-3">Volver</a>
+
+<h1>{{ proyecto.nombre }}</h1>
+<p class="text-muted">{{ proyecto.descripcion }}</p>
+
+<!-- Botones de Editar y Eliminar Proyecto -->
+<div class="mb-4">
+    <a href="{% url 'proyecto_update' proyecto.pk %}" class="btn btn-outline-primary btn-sm">Editar proyecto</a>
+    <a href="{% url 'proyecto_delete' proyecto.pk %}" class="btn btn-outline-danger btn-sm">Eliminar proyecto</a>
+</div>
+
+<hr class="my-4">
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2>Tareas</h2>
+    <!-- Botón Nueva Tarea -->
+    <a href="{% url 'tarea_create' proyecto.pk %}" class="btn btn-primary btn-sm">Nueva tarea</a>
+</div>
+
+{% if proyecto.tareas.all %}
+
+    <div class="list-group">
+        {% for tarea in proyecto.tareas.all %}
+            <div class="list-group-item mb-2 shadow-sm rounded">
+                <div class="d-flex w-100 justify-content-between">
+                    <h5 class="mb-1"><strong>{{ tarea.titulo }}</strong></h5>
+                    <!-- Badge para estilizar el estado -->
+                    <span class="badge bg-secondary">{{ tarea.get_estado_display }}</span>
+                </div>
+                
+                <p class="mb-2 text-muted">{{ tarea.descripcion }}</p>
+
+                <!-- Botones de Editar y Eliminar Tarea -->
+                <div class="mt-2">
+                    <a href="{% url 'tarea_update' tarea.pk %}" class="btn btn-sm btn-outline-secondary">Editar</a>
+                    <a href="{% url 'tarea_delete' tarea.pk %}" class="btn btn-sm btn-outline-danger">Eliminar</a>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+{% else %}
+
+    <div class="alert alert-info" role="alert">
+        Este proyecto no tiene tareas.
+    </div>
+
+{% endif %}
+
+{% endblock %}
