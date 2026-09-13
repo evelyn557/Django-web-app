@@ -82,37 +82,27 @@ python manage.py test
 <img width="1440" height="776" alt="proyecto5" src="https://github.com/user-attachments/assets/a630e417-def9-4886-87dc-6f932de75077" />
 <img width="1440" height="557" alt="proyecto6" src="https://github.com/user-attachments/assets/54326d50-e2f5-4469-be5b-53637830822a" />
 
+
+
 ## 📸 Evidencia de Funcionamiento (videos)
 
-- **Registro de Usuarios:**
-  
- [Proyectos](assets/crear_usuario_nuevo.mov)
+- **Registro de Usuarios / Crear usuario nuevo:**
+  [Ver video en YouTube](https://youtu.be/1vo88kVUoXE)
 
-
-- **Creación proyecto App de Inventarios:**
-  
-  [Ver video](assets/proyectos.png)
+- **Creación proyecto Portal Finanzas:**
+  [Ver video en YouTube](https://youtu.be/nry-uineuJk)
 
 - **Validación al crear usuario:**
-  
-  [Ver video](assets/validacion.mov)
+  [Ver video en YouTube](https://youtu.be/VxmPiHOPFog)
 
 - **Agregar tareas:**
-  
-  [Ver video](assets/agregar_tareas.mov)
+  [Ver video en YouTube](https://youtu.be/RQ2ClKDhvPw)
 
 - **Editar tareas:**
-  
-  [Ver video](assets/editar_tarea.mov) 
-
-- **Eliminar proyectos:**
-  
-  [Ver video](assets/validacion.png)
+  [Ver video en YouTube](https://youtu.be/TtF4tasOhCU)
 
 - **Uso de panel de administración:**
-  
-  [Ver video](https://github.com/evelyn557/Django-web-app/raw/main/assets/panel_admin.mov)
-  
+  [Ver video en YouTube](https://youtu.be/BWU0C_D8LuM)
   
 
 
