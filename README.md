@@ -87,25 +87,21 @@ python manage.py test
 ## 📸 Evidencia de Funcionamiento (videos)
 
 - **Registro de Usuarios / Crear usuario nuevo:**
-  [Ver video en YouTube](https://youtu.be/1vo88kVUoXE)
+  <a href="https://youtu.be/1vo88kVUoXE" target="_blank">Ver video en YouTube</a>
 
 - **Creación proyecto Portal Finanzas:**
-  [Ver video en YouTube](https://youtu.be/nry-uineuJk)
+  <a href="https://youtu.be/nry-uineuJk" target="_blank">Ver video en YouTube</a>
 
 - **Validación al crear usuario:**
-  [Ver video en YouTube](https://youtu.be/VxmPiHOPFog)
+  <a href="https://youtu.be/VxmPiHOPFog" target="_blank">Ver video en YouTube</a>
 
 - **Agregar tareas:**
-  [Ver video en YouTube](https://youtu.be/RQ2ClKDhvPw)
+  <a href="https://youtu.be/RQ2ClKDhvPw" target="_blank">Ver video en YouTube</a>
 
 - **Editar tareas:**
-  [Ver video en YouTube](https://youtu.be/TtF4tasOhCU)
+  <a href="https://youtu.be/TtF4tasOhCU" target="_blank">Ver video en YouTube</a>
 
 - **Uso de panel de administración:**
-  [Ver video en YouTube](https://youtu.be/BWU0C_D8LuM)
-  
-
-
-
+  <a href="https://youtu.be/BWU0C_D8LuM" target="_blank">Ver video en YouTube</a>
 
 
