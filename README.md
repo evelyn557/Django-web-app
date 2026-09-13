@@ -85,19 +85,35 @@ python manage.py test
 ## 📸 Evidencia de Funcionamiento (videos)
 
 - **Registro de Usuarios:**
+  
+ [Proyectos](assets/crear_usuario_nuevo.mov)
 
 
 - **Creación proyecto App de Inventarios:**
-  ![Proyectos](assets/proyectos.png)
+  
+  [Ver video](assets/proyectos.png)
 
-- **Formulario de Creación con Validación:**
-  ![Validacion](assets/validacion.png)
+- **Validación al crear usuario:**
+  
+  [Ver video](assets/validacion.mov)
 
 - **Agregar tareas:**
+  
+  [Ver video](assets/agregar_tareas.mov)
 
 - **Editar tareas:**
+  
+  [Ver video](assets/editar_tarea.mov) 
 
 - **Eliminar proyectos:**
+  
+  [Ver video](assets/validacion.png)
+
+- **Uso de panel de administración:**
+  
+  [Ver video](https://github.com/evelyn557/Django-web-app/raw/main/assets/panel_admin.mov)
+  
+  
 
 
 
